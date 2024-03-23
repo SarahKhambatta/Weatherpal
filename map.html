@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+        />
+        <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+        <script src="https://api.windy.com/assets/map-forecast/libBoot.js"></script>
+        <style>
+            #windy {
+                width: 100%;
+                height: 40em;
+            }
+        </style>
+        <link rel="stylesheet" href="map.css" />
+    </head>
+    <body>
+      <div class="site content">
+        <div class="site-header">
+            <div class="container2">
+              <a href="index.html" style="text-decoration:none" class="branding">
+                <img src="images/icons/LOGO.png" alt="" class="logo">
+                <div class="logo-type">
+                </div>
+              </a>
+
+              <!-- Default snippet for navigation -->
+              <div class="main-navigation">
+                <ul class="menu">
+                  <li class="menu-item " id="index"><a href="index.html" style="text-decoration:none">Home</a></li>
+                  <li class="menu-item "><a href="photos.html" style="text-decoration:none">Cities</a></li>
+                  <li class="menu-item current-menu-item"><a href="map.html" style="text-decoration:none">Map</a></li>
+                  <li class="menu-item"><a href="https://www.makemytrip.com/railways/" style="text-decoration:none">Travel</a></li>
+                </ul> <!-- .menu -->
+              </div> <!-- .main-navigation -->
+
+              <div class="mobile-navigation"></div>
+
+            </div></div>
+          </div>
+        <div id="windy"></div>
+        <script src="map.js"></script>
+    </body>
+</html>
