@@ -1,3 +1,6 @@
+https://www.canva.com/design/DAGBFiMgF8U/PV_JtZQhsHLcmIyD5NmjqQ/edit?utm_content=DAGBFiMgF8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+CANVA PRESENTATION 
+
 WeatherPal is your ultimate destination for all things weather-related and travel-oriented. Here's a detailed description of what you can expect from the WeatherPal website:
 
 Homepage: Upon entering the WeatherPal website, users are greeted with a clean and intuitive interface. The homepage prominently displays the current weather conditions for their location, including temperature, humidity, wind speed, and an icon representing the current weather conditions (e.g., sunny, rainy, cloudy).
